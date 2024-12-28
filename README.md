@@ -1,19 +1,23 @@
-# DEEPANKAR KUMAR
-## About Me
+# Deepankar Kumar 👨‍💻
 
-I am a dedicated security analyst with [X years/months] of experience in the cybersecurity domain. My expertise lies in:
+### Cybersecurity Professional | Project Engineer | Application Security Enthusiast
 
-- Threat Detection and Incident Response: Proficient in identifying, analyzing, and responding to security incidents promptly and effectively.
-- Vulnerability Management: Skilled in conducting thorough assessments to detect vulnerabilities and recommending mitigation strategies.
-- Security Tools and Technologies: Well-versed in utilizing a wide array of security tools, including SIEM (Security Information and Event Management), IDS/IPS (Intrusion Detection/Prevention Systems), etc.
-- Risk Assessment and Mitigation: Experienced in assessing risks, creating mitigation plans, and implementing security controls to mitigate potential threats.
-- Security Best Practices: Deep understanding of security frameworks, compliance standards (such as PCI DSS, HIPAA, GDPR), and best practices to ensure robust security postures.
+🔍 **About Me**  
+Hello! I'm Deepankar Kumar, a cybersecurity professional specializing in vulnerability assessment and penetration testing across various domains, including web application security, Android penetration testing, web services, SAP (ICM) audit, and thick client audit. With a proven track record of securing systems in industries such as telecommunications, financial services, and government defense, I am passionate about leveraging industry standards like OWASP, NIST, and SANS to identify and mitigate security risks effectively.
 
+🛠 **Skills**  
+- **Cybersecurity Expertise:** Cryptography, Network Security, Penetration Testing (Android, APIs, SAP, Thick Clients), SAST, DAST  
+- **Networking and System Administration:** DNS Management, Server Administration, Virtualization (Hypervisor 1 & 2) 
+- **Tools:** Burp Suite, OWASP ZAP, Acunetix, Invicti (Netsparker), Kali Linux  
+- **Programming:** C  
 
+🎓 **Education**  
+B.Tech in Computer Science and Engineering | Haldia Institute of Technology  
 
-Feel free to connect with me via LinkedIn for professional inquiries, collaboration opportunities, or discussions related to cybersecurity.
-Contribution
+📜 **Certifications**  
+- NSE 1 & 2 Network Security Associate (Fortinet)  
+- Cryptography and Network Security (NPTEL)  
 
-
-
-Thank you for visiting!
+📫 **Connect With Me**  
+- LinkedIn: [Deepankar Kumar](https://in.linkedin.com/in/deepankar-kumar-19b845237)  
+- Email: deepankarkumar0897@gmail.com  
