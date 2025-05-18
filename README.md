@@ -9,7 +9,8 @@ Hello! I'm Deepankar Kumar, a cybersecurity professional specializing in vulnera
 - **Cybersecurity Expertise:** Cryptography, Network Security, Penetration Testing (Android, APIs, SAP, Thick Clients), SAST, DAST ,Software composition analysis (SCA) 
 - **Networking and System Administration:** DNS Management, Server Administration, Virtualization (Hypervisor 1 & 2) 
 - **Tools:** Burp Suite, OWASP ZAP, Acunetix, Invicti (Netsparker), Kali Linux  
-- **Programming:** C  
+- **Programming:** C
+- **Technology:**  Docker , Node js , Websocket , Github 
 
 🎓 **Education**  
 B.Tech in Computer Science and Engineering | Haldia Institute of Technology  
