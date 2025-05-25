@@ -25,5 +25,5 @@ B.Tech in Computer Science and Engineering | Haldia Institute of Technology
 - Cryptography and Network Security (NPTEL)  
 
  **Connect With Me**  
-- LinkedIn: [Deepankar Kumar](https://www.linkedin.com/in/deepankar1) 
+- LinkedIn: [Deepankar Kumar](https://www.linkedin.com/in/deepankarkumar) 
 - Email: deepankarkumar0897@gmail.com  
